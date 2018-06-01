@@ -1,0 +1,7 @@
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\bin\Debug\DAL.dll
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\bin\Debug\DAL.pdb
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\bin\Debug\DTO.dll
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\bin\Debug\DTO.pdb
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\obj\Debug\DAL.dll
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DTO\bin\Debug\DTO.dll
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DTO\bin\Debug\DTO.pdb
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DTO\obj\Debug\DTO.dll
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DTO\obj\Debug\DTO.pdb
+E:\LTQL\Đồ án LTQL\QLCHGAGMIX\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
